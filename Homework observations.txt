@@ -1,0 +1,16 @@
+Observation 1:
+
+-It appears that schools with a lower spending range have a better Overall Passing Rate 
+than schools with higher spending ranges per student. The difference in Overall Passing Rate
+is between 22% and 15%. 
+
+Observation 2:
+
+-The larger the school the lower the Overall Passing Rate, with a significantly lower grade
+in math. 
+
+Observation 3:
+
+-It is clear that Charter schools perform better than District schools as shown by the final
+chart. However, average reading grade is only 3% higher in Charter schools than District schools.
+
